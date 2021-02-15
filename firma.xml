@@ -1,0 +1,18 @@
+<!-- Beispiel xml: Firmenhierarchie -->
+<firma>
+    <!-- Buchhaltung-->
+    <abteilung name="Buchhaltung">
+        <mitarbeiter name="Lehmann"/>
+    </abteilung>
+    <!-- Produktion-->
+    <abteilung name="Produktion">
+        <mitarbeiter name="Breitner"/>
+        <mitarbeiter name="Paul"/>
+        <mitarbeiter name="Degen"/>
+    </abteilung>
+    <!-- Vertrieb-->
+    <abteilung name="Vertrieb">
+        <mitarbeiter name="Schulz"/>
+        <mitarbeiter name="Meier"/>
+    </abteilung>
+</firma>

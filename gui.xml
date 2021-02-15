@@ -1,0 +1,4 @@
+<!-- Sprachpaket Englisch-->
+<app lang="en">
+    <menu number="1" name="file">File</menu>
+</app>
